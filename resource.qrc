@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/4-512.png</file>
+        <file>Icons/623443_book_256x256.png</file>
+        <file>Icons/623443_book_256x256e.png</file>
+        <file>Icons/addBook.png</file>
+        <file>Icons/Circle-icons-bookshelf.svg.png</file>
+        <file>Icons/circle-school-learn-study-subject-history-512.png</file>
+        <file>Icons/editBook.png</file>
+        <file>Icons/findBook.png</file>
+        <file>Icons/info-512.png</file>
+        <file>Icons/L-about.png</file>
+        <file>Icons/L_sendNotif.png</file>
+        <file>Icons/Male_Avatar_Check-512.png</file>
+        <file>Icons/notification-circle-blue-512.png</file>
+        <file>Icons/password-recovery.png</file>
+        <file>Icons/password.png</file>
+        <file>Icons/Power_-_Log_Off.png</file>
+        <file>Icons/private-512.ico</file>
+        <file>Icons/search-icon-large (1).png</file>
+        <file>Icons/search-icon-large.png</file>
+        <file>Icons/search-icon.png</file>
+        <file>Icons/shopping-basket-icon_1063-6.jpg</file>
+        <file>Icons/user-man-add-512.png</file>
+        <file>Icons/user-man-add23-512.png</file>
+        <file>Icons/user2-edit-512.png</file>
+        <file>Icons/verify.png</file>
+        <file>Icons/Logout-512.png</file>
+        <file>Icons/User-icon.png</file>
+    </qresource>
+</RCC>

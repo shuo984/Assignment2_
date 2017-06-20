@@ -1,0 +1,8 @@
+NumBookType:		7
+NumUser:		1
+NumAccount:		2
+NumRent:		0
+NumNotif:		7
+NumBookType:		0
+NumBook:		0
+NumBook:		0
